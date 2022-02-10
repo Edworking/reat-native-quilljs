@@ -1,0 +1,20 @@
+{
+  "name": "@edworking/react-native-quilljs",
+  "version": "1.0.0",
+  "description": "React Native Quill Poerful Rich Text Editor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://Edworking/reat-native-quilljs"
+  },
+  "keywords": [
+    "react-native",
+    "editor",
+    "quilljs"
+  ],
+  "author": "Edworking LTD",
+  "license": "ISC"
+}
